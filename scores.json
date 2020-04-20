@@ -1,0 +1,625 @@
+{
+    "images/grey/101_2.tif": {
+        "dct": {
+            "score_ssim": 0.9873976064546247,
+            "score_nrmse": 0.9628285090590932
+        },
+        "fft_binned": {
+            "score_ssim": 0.658535575361999,
+            "score_nrmse": 0.8382405645548838
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999971,
+            "score_nrmse": 0.9965673806772815
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7500947867524472,
+            "score_nrmse": 0.9034309141131566
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.7971266944130904,
+            "score_nrmse": 0.9099997342247407
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.8979972866673434,
+            "score_nrmse": 0.9189554173512235
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.057216530448666814,
+            "score_nrmse": 0.49879324200128916
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.05807772186068325,
+            "score_nrmse": 0.4983356327625589
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.05358348988143202,
+            "score_nrmse": 0.48470583891710184
+        }
+    }
+} {
+    "images/grey/102_2.tif": {
+        "dct": {
+            "score_ssim": 0.9883065047198434,
+            "score_nrmse": 0.9754048617006115
+        },
+        "fft_binned": {
+            "score_ssim": 0.6522097500560796,
+            "score_nrmse": 0.8498661984925826
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999973,
+            "score_nrmse": 0.9963663940578261
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7598722523925509,
+            "score_nrmse": 0.9064876222159557
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.7955657170323882,
+            "score_nrmse": 0.9106658799514731
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.8864594904441783,
+            "score_nrmse": 0.9195957014447518
+        },
+        "ideal_hp_20": {
+            "score_ssim": 0.03337662321367599,
+            "score_nrmse": 0.5590282561660838
+        },
+        "butterworth_hp_20": {
+            "score_ssim": 0.03341156972670287,
+            "score_nrmse": 0.558864256152618
+        },
+        "gaussian_hp_20": {
+            "score_ssim": 0.029957295322240597,
+            "score_nrmse": 0.5447722425103649
+        }
+    }
+} {
+    "images/grey/103_2.tif": {
+        "dct": {
+            "score_ssim": 0.9695372326473743,
+            "score_nrmse": 0.9809954383260937
+        },
+        "fft_binned": {
+            "score_ssim": 0.7382652203967047,
+            "score_nrmse": 0.8757670147805868
+        },
+        "fft_contin": {
+            "score_ssim": 1.0000000000000016,
+            "score_nrmse": 0.9959510843035703
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7426158815566323,
+            "score_nrmse": 0.9229348931261568
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8076541938638492,
+            "score_nrmse": 0.9254394957383785
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9026141541396282,
+            "score_nrmse": 0.9315853735781177
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.07058844366307758,
+            "score_nrmse": 0.3371782042076281
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.07247953217668206,
+            "score_nrmse": 0.3362397854683371
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.06845139750252176,
+            "score_nrmse": 0.3284827099995663
+        }
+    }
+} {
+    "images/grey/104_2.tif": {
+        "dct": {
+            "score_ssim": 0.9723004194196307,
+            "score_nrmse": 0.9838153906752389
+        },
+        "fft_binned": {
+            "score_ssim": 0.7548350115949988,
+            "score_nrmse": 0.8868726734242963
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999833,
+            "score_nrmse": 0.9969546538056951
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7503278105747334,
+            "score_nrmse": 0.9187594594629407
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8041479087506482,
+            "score_nrmse": 0.9218441668106073
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9027539385511296,
+            "score_nrmse": 0.935239165390702
+        },
+        "ideal_hp_20": {
+            "score_ssim": 0.04207129311409997,
+            "score_nrmse": 0.3790696432887788
+        },
+        "butterworth_hp_20": {
+            "score_ssim": 0.04075517845671893,
+            "score_nrmse": 0.3779745450563493
+        },
+        "gaussian_hp_20": {
+            "score_ssim": 0.03469082164570112,
+            "score_nrmse": 0.3694237385349185
+        }
+    }
+} {
+    "images/grey/101_1.tif": {
+        "dct": {
+            "score_ssim": 0.979763411449892,
+            "score_nrmse": 0.977137662863972
+        },
+        "fft_binned": {
+            "score_ssim": 0.6977158071767126,
+            "score_nrmse": 0.8644009929309221
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999915,
+            "score_nrmse": 0.996168005027586
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7704814871677395,
+            "score_nrmse": 0.9225698347594851
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8161490477632439,
+            "score_nrmse": 0.9240967711330875
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9045561712449597,
+            "score_nrmse": 0.9307463387882922
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.09657615411489155,
+            "score_nrmse": 0.3974364766823145
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.09807066276970261,
+            "score_nrmse": 0.3966258901622599
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.08753883621841933,
+            "score_nrmse": 0.38399512703089334
+        }
+    }
+} {
+    "images/grey/102_1.tif": {
+        "dct": {
+            "score_ssim": 0.9834919550612264,
+            "score_nrmse": 0.9766391182796061
+        },
+        "fft_binned": {
+            "score_ssim": 0.6806397006645059,
+            "score_nrmse": 0.8607700240753019
+        },
+        "fft_contin": {
+            "score_ssim": 0.999999999999996,
+            "score_nrmse": 0.9959480415196592
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7691302232150212,
+            "score_nrmse": 0.9201002022314408
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8065544519146841,
+            "score_nrmse": 0.9235197939595918
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.8929397518123721,
+            "score_nrmse": 0.9259074266528414
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.03474852928618076,
+            "score_nrmse": 0.45897952559787203
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.03535337696423253,
+            "score_nrmse": 0.4584348118023027
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.03293573831511721,
+            "score_nrmse": 0.4447920305066847
+        }
+    }
+} {
+    "images/grey/103_1.tif": {
+        "dct": {
+            "score_ssim": 0.9762903085665129,
+            "score_nrmse": 0.9759914956887574
+        },
+        "fft_binned": {
+            "score_ssim": 0.7214300671223387,
+            "score_nrmse": 0.8619665352629526
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999978,
+            "score_nrmse": 0.9962918530533504
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7091915849064961,
+            "score_nrmse": 0.9089006914010531
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.7981191458488861,
+            "score_nrmse": 0.9121333815118146
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9013230868878163,
+            "score_nrmse": 0.9242007656781326
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.04359620513458517,
+            "score_nrmse": 0.3983194980791097
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.04490849071684916,
+            "score_nrmse": 0.39756608534283455
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.04388793217877681,
+            "score_nrmse": 0.38964293748754375
+        }
+    }
+} {
+    "images/grey/104_1.tif": {
+        "dct": {
+            "score_ssim": 0.9720913653013985,
+            "score_nrmse": 0.979632215391233
+        },
+        "fft_binned": {
+            "score_ssim": 0.7446227266188579,
+            "score_nrmse": 0.8822838548758808
+        },
+        "fft_contin": {
+            "score_ssim": 1.0000000000000044,
+            "score_nrmse": 0.9960695440215562
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7426180818858424,
+            "score_nrmse": 0.9204070226072619
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.7959149028326091,
+            "score_nrmse": 0.9227683901848147
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9003643713869472,
+            "score_nrmse": 0.9333821880183035
+        },
+        "ideal_hp_20": {
+            "score_ssim": 0.012717700602278215,
+            "score_nrmse": 0.36879810321735806
+        },
+        "butterworth_hp_20": {
+            "score_ssim": 0.0114818869177372,
+            "score_nrmse": 0.367895734752563
+        },
+        "gaussian_hp_20": {
+            "score_ssim": 0.008680265173636261,
+            "score_nrmse": 0.3596002527740455
+        }
+    }
+} {
+    "images/grey/101_3.tif": {
+        "dct": {
+            "score_ssim": 0.9701348182207465,
+            "score_nrmse": 0.9759748558310817
+        },
+        "fft_binned": {
+            "score_ssim": 0.7291815482201355,
+            "score_nrmse": 0.8831990498018689
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999922,
+            "score_nrmse": 0.9968166762343387
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7800936032501787,
+            "score_nrmse": 0.930538909985771
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8308613407184886,
+            "score_nrmse": 0.9343847395152968
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9080039254150278,
+            "score_nrmse": 0.9392683719074928
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.036779263089342026,
+            "score_nrmse": 0.36625554112117875
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.03783181465222043,
+            "score_nrmse": 0.365082116068178
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.03332696786205427,
+            "score_nrmse": 0.35525688629341257
+        }
+    }
+} {
+    "images/grey/102_3.tif": {
+        "dct": {
+            "score_ssim": 0.9799835931966863,
+            "score_nrmse": 0.9431034681031732
+        },
+        "fft_binned": {
+            "score_ssim": 0.6683664540452465,
+            "score_nrmse": 0.8598606663022115
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999991,
+            "score_nrmse": 0.9971450827230673
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7904001115267119,
+            "score_nrmse": 0.922773452912291
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8240147622089472,
+            "score_nrmse": 0.9262296283912673
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9019513836774107,
+            "score_nrmse": 0.9330428823217268
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.030233516585860758,
+            "score_nrmse": 0.4554878152627563
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.03099405813894853,
+            "score_nrmse": 0.454435152773079
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.02967462638402087,
+            "score_nrmse": 0.4405987624201382
+        }
+    }
+} {
+    "images/grey/103_3.tif": {
+        "dct": {
+            "score_ssim": 0.9595021472700304,
+            "score_nrmse": 0.9807850394155642
+        },
+        "fft_binned": {
+            "score_ssim": 0.7797583667325011,
+            "score_nrmse": 0.8937762893262514
+        },
+        "fft_contin": {
+            "score_ssim": 1.0000000000000073,
+            "score_nrmse": 0.9961834138885955
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.8251338284585058,
+            "score_nrmse": 0.9407697325406191
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8651281498348657,
+            "score_nrmse": 0.9426268708074848
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9223581831850151,
+            "score_nrmse": 0.94922509647211
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.027335964364023496,
+            "score_nrmse": 0.31390255350576823
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.029338574824230083,
+            "score_nrmse": 0.312795230074818
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.028016474920872298,
+            "score_nrmse": 0.30535960372173165
+        }
+    }
+} {
+    "images/grey/104_3.tif": {
+        "dct": {
+            "score_ssim": 0.9729029491581188,
+            "score_nrmse": 0.9794135012316728
+        },
+        "fft_binned": {
+            "score_ssim": 0.7386038967582312,
+            "score_nrmse": 0.8856059172702985
+        },
+        "fft_contin": {
+            "score_ssim": 0.999999999999986,
+            "score_nrmse": 0.9966935767592286
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7366807871096995,
+            "score_nrmse": 0.9187187237085008
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.7880667925290147,
+            "score_nrmse": 0.9226521790114902
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.8951729546941318,
+            "score_nrmse": 0.934167827565943
+        },
+        "ideal_hp_20": {
+            "score_ssim": 0.05630905602292101,
+            "score_nrmse": 0.394200384146419
+        },
+        "butterworth_hp_20": {
+            "score_ssim": 0.055278411550027884,
+            "score_nrmse": 0.3931749364643963
+        },
+        "gaussian_hp_20": {
+            "score_ssim": 0.0484835741123833,
+            "score_nrmse": 0.38496473975934287
+        }
+    }
+} {
+    "images/grey/101_4.tif": {
+        "dct": {
+            "score_ssim": 0.9742389330798003,
+            "score_nrmse": 0.9668409943329215
+        },
+        "fft_binned": {
+            "score_ssim": 0.7143299779772765,
+            "score_nrmse": 0.8619525213689606
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999906,
+            "score_nrmse": 0.9964855703179832
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7664806796971073,
+            "score_nrmse": 0.9169836625750019
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8304817338507985,
+            "score_nrmse": 0.9202229730428626
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.910904970007088,
+            "score_nrmse": 0.9297074806712468
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.031011945269780242,
+            "score_nrmse": 0.39402199066100674
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.03242883389246895,
+            "score_nrmse": 0.39312195249590587
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.029419520525051,
+            "score_nrmse": 0.38279617216988115
+        }
+    }
+} {
+    "images/grey/102_4.tif": {
+        "dct": {
+            "score_ssim": 0.97734214333054,
+            "score_nrmse": 0.9724217618694025
+        },
+        "fft_binned": {
+            "score_ssim": 0.6793151780040826,
+            "score_nrmse": 0.8664599817307026
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999875,
+            "score_nrmse": 0.9963303193306712
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7931149464255356,
+            "score_nrmse": 0.9229998235779829
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8338494972156139,
+            "score_nrmse": 0.9275155397228099
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.907446928970096,
+            "score_nrmse": 0.9371706330105556
+        },
+        "ideal_hp_20": {
+            "score_ssim": 0.005844072695595553,
+            "score_nrmse": 0.45076728061901095
+        },
+        "butterworth_hp_20": {
+            "score_ssim": 0.005467525169665336,
+            "score_nrmse": 0.4496321226927924
+        },
+        "gaussian_hp_20": {
+            "score_ssim": 0.004055514868595173,
+            "score_nrmse": 0.4342562213482589
+        }
+    }
+} {
+    "images/grey/103_4.tif": {
+        "dct": {
+            "score_ssim": 0.9674066366144076,
+            "score_nrmse": 0.9752804567988582
+        },
+        "fft_binned": {
+            "score_ssim": 0.7517889411234361,
+            "score_nrmse": 0.8796695260134283
+        },
+        "fft_contin": {
+            "score_ssim": 1.0000000000000173,
+            "score_nrmse": 0.9962583105985957
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7250601825140967,
+            "score_nrmse": 0.9212758851206864
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8027900878666651,
+            "score_nrmse": 0.9219188353964444
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9035047599747902,
+            "score_nrmse": 0.9331159822892291
+        },
+        "ideal_hp_20": {
+            "score_ssim": -0.04377637928006035,
+            "score_nrmse": 0.3568573060709893
+        },
+        "butterworth_hp_20": {
+            "score_ssim": -0.04567165440329396,
+            "score_nrmse": 0.3558596191323752
+        },
+        "gaussian_hp_20": {
+            "score_ssim": -0.04507604429663955,
+            "score_nrmse": 0.34878737809139104
+        }
+    }
+} {
+    "images/grey/104_4.tif": {
+        "dct": {
+            "score_ssim": 0.9731405144102108,
+            "score_nrmse": 0.9792797415884447
+        },
+        "fft_binned": {
+            "score_ssim": 0.7439970788306967,
+            "score_nrmse": 0.885805717414819
+        },
+        "fft_contin": {
+            "score_ssim": 0.9999999999999991,
+            "score_nrmse": 0.995802091128732
+        },
+        "ideal_lp_50": {
+            "score_ssim": 0.7478702438703337,
+            "score_nrmse": 0.9183093550188228
+        },
+        "butterworth_lp_50": {
+            "score_ssim": 0.8041587191905356,
+            "score_nrmse": 0.9233094832567323
+        },
+        "gaussian_lp_50": {
+            "score_ssim": 0.9015417535533911,
+            "score_nrmse": 0.9350153786030845
+        },
+        "ideal_hp_20": {
+            "score_ssim": 0.0535516292584271,
+            "score_nrmse": 0.39919313471876106
+        },
+        "butterworth_hp_20": {
+            "score_ssim": 0.05269475442789566,
+            "score_nrmse": 0.3982003065956191
+        },
+        "gaussian_hp_20": {
+            "score_ssim": 0.046373162864400574,
+            "score_nrmse": 0.38955607292123107
+        }
+    }
+}
