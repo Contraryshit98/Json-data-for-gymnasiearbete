@@ -17,7 +17,7 @@ fingeravtrycksbilder har hämtats från 'The Second International Competition fo
 9. High Pass Gaussian Blur
 
 så ser ut produkten av de sex sista algoritmerna (produkten av de första tre är inget speciellt, utan 'vanlig' komprimering)
-![sample images](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "bilderna förekommer i samma ordning som algortimerna i listan ovan")
+![sample images](https://github.com/Contraryshit98/Json-data-for-gymnasiearbete/blob/master/101_2.tif.pdf "bilderna förekommer i samma ordning som algortimerna i listan ovan")
 
 Produkter av algoritmerna, tillsammans med den orginiella bilden mätas sedan in och testas med fingeravtryck-verifiering algoritmen mot alla fingeravtryck i databasen. Datan sammanställs i python dicts som sedan dumpas som json i externa filer.
 
@@ -26,4 +26,7 @@ Produkter av algoritmerna, tillsammans med den orginiella bilden mätas sedan in
 ... databasen DB2 består av 8 fingeravtryck per person för åtta personer, varav vi använder endast 4 avtryck per person för 4 personer. programmet använder opencv ORB, som är en algoritm med hjälp av maskininlärning hittar och kategoriserar punkter i en given bild. Opencvs implementering har också en funktion .math() som matchar punkter inom ett visst tröskelvärde för avstånd, här benämnas 'threshold', mängden av punkterna som sparas i listan, är längden av listan och motsvarar 'length' i algoritmen. Denna lösning är mycket smart och räknar med skillnader i rotation, relativ intensititet i fingeravtryckens åsar. 
 
 med hjälp av length och threshold, går det att räkna sannolikheten att ett avtryck identifieras tillhöra den riktiga personen, och vilken bild som är närmast, är bilden närmare till andra bilder tillhörande samma klass eller bilder av andra klasser. Frågeställningen "Vilken av metoderna DCT samt FFT ger högst kvalité på svartvita foton av mina fingeravtryck vid samma filstorlek?" har alltså utvidgats till att vara en jämförelse av 9 lösningar till komprimering. Men, ordet 'kvalite' behöver också andra mått, än sannolikhet att bilden ska identifieras, dessa mått kommer i formen av ssim, och nrmse, enkla algoritmer som 'objektivt' ger ett mått på hur nära den komprimerade bilden är till originella bilden. Data för dessa presenteras i filen 'scores.json'
+
+# koden för algoritmerna
+Jag uppladdar koden så fort som jag har retuscherat den och sett till att allt fungerar även utanför miljön av min dator, vilket har alltid varit svårt i programmeringskurserna. Matlab koden är vid denna punkt onödvändig, jag kan skriva åter programmet på Matlab script, men det kommer bara att ta tid och inte ge något extra värde. Det finns en riktig implementation av fingerprint scanning på matlab, som istället för att tungt vara beroende av maskininlärning och arbiträra aspekter av bilen, har algoritmer som mappar geometrin av ett fingeravtryck, source koden är dock låst bakom en stor pris att betala, jag ville se den koden och göra en egen ansats, men fick inte alls tillgång till den och istället behövde tillämpa opencv.orb.
 
